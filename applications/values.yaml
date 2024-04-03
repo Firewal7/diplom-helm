@@ -3,6 +3,6 @@
 container:
     image: bbb8c2e28d7d/applications
     pullPolicy: Always
-    tag: "11.0"
+    tag: "13.0"
 
 replicaCount: 1
